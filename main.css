@@ -1,0 +1,31 @@
+header
+{
+    position: fixed;
+    top: 30px;
+    left: 30px;
+}
+
+.container
+{
+    background-color: beige;
+    width: 900px;
+    height: 1500px;
+    display: flex;
+    column-gap: 10px;
+}
+
+.left
+{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    background-color: paleturquoise;
+}
+
+.right
+{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    background-color: pink;
+}
